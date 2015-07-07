@@ -1,5 +1,5 @@
 # Dojo DevMT S01E02 (Versão em NodeJS)
-[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+[![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
 #### Versão original desenvolvida em Clojure. [Disponivel aqui](https://github.com/devmatogrosso/dojo-s01e02-escrevendo-no-celular)
 
@@ -31,9 +31,6 @@ Por exemplo, para digitar "SEMPRE ACESSO O DOJOPUZZLES", você precisa digitar:
 
 [Link do problema](http://dojopuzzles.com/problemas/exibe/escrevendo-no-celular/)
 
-
-[npm-image]: https://badge.fury.io/js/dojo-s01e02-escrevendo-no-celularjs.svg
-[npm-url]: https://npmjs.org/package/dojo-s01e02-escrevendo-no-celularjs
 [travis-image]: https://travis-ci.org/gpedro/dojo-s01e02-escrevendo-no-celularjs.svg?branch=master
 [travis-url]: https://travis-ci.org/gpedro/dojo-s01e02-escrevendo-no-celularjs
 [daviddm-image]: https://david-dm.org/gpedro/dojo-s01e02-escrevendo-no-celularjs.svg?theme=shields.io
