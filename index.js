@@ -18,7 +18,7 @@ module.exports = function (texto) {
 
   var convertCharToNumeric = function (char) {
     var keys = Object.keys(mapping);
-    var result = "";
+    var result = '';
     for (var keyIndex in keys) {
       var key = keys[keyIndex];
       var value = mapping[key];
@@ -26,7 +26,7 @@ module.exports = function (texto) {
       var pos = key.indexOf(char);
       if (pos !== -1) {
         if (lastGroup !== undefined && lastGroup === value) {
-          result += "_";
+          result += '_';
         }
 
         result += Array(key.indexOf(char) + 2).join(value);
@@ -40,7 +40,7 @@ module.exports = function (texto) {
 
   };
 
-  var result = "";
+  var result = '';
   for (var i = 0; i <= (texto.length - 1); i++) {
     var char = texto.charAt(i);
     result += convertCharToNumeric(char);
