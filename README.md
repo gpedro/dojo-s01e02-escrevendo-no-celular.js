@@ -31,7 +31,7 @@ Por exemplo, para digitar "SEMPRE ACESSO O DOJOPUZZLES", você precisa digitar:
 
 [Link do problema](http://dojopuzzles.com/problemas/exibe/escrevendo-no-celular/)
 
-[travis-image]: https://travis-ci.org/gpedro/dojo-s01e02-escrevendo-no-celularjs.svg?branch=master
-[travis-url]: https://travis-ci.org/gpedro/dojo-s01e02-escrevendo-no-celularjs
-[daviddm-image]: https://david-dm.org/gpedro/dojo-s01e02-escrevendo-no-celularjs.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/gpedro/dojo-s01e02-escrevendo-no-celularjs
+[travis-image]: https://travis-ci.org/gpedro/dojo-s01e02-escrevendo-no-celular.js.svg?branch=master
+[travis-url]: https://travis-ci.org/gpedro/dojo-s01e02-escrevendo-no-celular.js
+[daviddm-image]: https://david-dm.org/gpedro/dojo-s01e02-escrevendo-no-celular.js.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/gpedro/dojo-s01e02-escrevendo-no-celular.js
